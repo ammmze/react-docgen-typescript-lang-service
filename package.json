@@ -1,0 +1,36 @@
+{
+  "name": "react-docgen-typescript-lang-service",
+  "version": "1.0.0",
+  "description": "Package version of the workaround mentioned in styleguidist/react-docgen-typescript#112 to use the language service to speed up compile time for styleguidist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no tests :\\'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammmze/react-docgen-typescript-lang-service.git"
+  },
+  "keywords": [
+    "react",
+    "docgen",
+    "typescript",
+    "lanuage",
+    "service",
+    "styleguidist"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ammmze/react-docgen-typescript-lang-service/issues"
+  },
+  "homepage": "https://github.com/ammmze/react-docgen-typescript-lang-service#readme",
+  "peerDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "react-docgen-typescript": "^1.16.4"
+  }
+}
