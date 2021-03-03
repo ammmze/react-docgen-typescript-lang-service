@@ -1,6 +1,6 @@
 {
   "name": "react-docgen-typescript-lang-service",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Package version of the workaround mentioned in styleguidist/react-docgen-typescript#112 to use the language service to speed up compile time for styleguidist",
   "main": "index.js",
   "scripts": {
