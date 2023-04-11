@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Commit Message Lint
-        uses: wagoid/commitlint-github-action@v2
+        uses: wagoid/commitlint-github-action@v5
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
